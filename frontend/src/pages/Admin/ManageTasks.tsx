@@ -3,5 +3,3 @@ const ManageTasks = () => {
 };
 
 export default ManageTasks;
-
-// 17.49
